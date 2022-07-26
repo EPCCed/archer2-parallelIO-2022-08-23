@@ -8,7 +8,7 @@ width="133" height="100">
 
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
-<h3>David Henty EPCC: 11th January 2022 09:30 - 17:00 GMT, online</h3>
+<h3>David Henty EPCC: Tuesday 23rd August 2022, 09:30 - 16:30 GMT, online</h3>
 
 One of the greatest challenges to running parallel applications on
 large numbers of processors is how to handle file IO. Standard Unix IO
@@ -23,16 +23,17 @@ IO. It uses ARCHER2 and its parallel Lustre file system as a platform
 for the exercises; however, almost all the IO concepts and performance
 considerations are applicable to any parallel system.
 
-We will give a general overview of how parallel IO is implemented in
-MPI-IO as these are the routines ultimately used by higher-level
-libraries such as HDF5 and NetCDF. A good understanding of the
-performance characteristics of MPI-IO is therefore very useful in
-optimising the IO performance of most parallel applications.
+We will give a general overview of the Lustre filesystem and how
+parallel IO is implemented in MPI-IO since these are the routines
+ultimately used by many higher-level libraries such as HDF5 and
+NetCDF. A good understanding of the performance characteristics of
+MPI-IO is therefore very useful in optimising the IO performance of
+most parallel applications.
 
 The course does not teach the detailed syntax of the various parallel
-IO libraries, but the Fortran source code for the benchmarking
-application used in the practical sessions should be useful reference
-material.
+IO libraries, but the Fortran source code provided for the
+benchmarking application used in the practical sessions should be
+useful reference material.
 
 <h3>Prerequisites</h3>
 
@@ -68,8 +69,8 @@ for private study. </blockquote></p>
  * 14:30 - 15:00 : Practical: MPI-IO performance (cont)
  * 15:00 - 15:30 : <a href="https://github.com/EPCCed/archer2-parallelIO-2022-01-11/raw/main/slides/Parallel-IO-5.pdf">Higher-level parallel IO libraries</a>
  * 15:30 - 16:00 : Break
- * 16:00 - 17:00 : Q&A / Finish exercises
- * 17:00         : CLOSE
+ * 16:00 - 16:30 : Q&A / Finish exercises
+ * 16:30         : CLOSE
 
 <h3>Exercise Material</h3>
 
