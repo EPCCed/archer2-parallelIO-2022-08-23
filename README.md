@@ -49,11 +49,11 @@ administrative privileges on.
 
 They are also required to abide by the [ARCHER2 Code of Conduct](https://www.archer2.ac.uk/about/policies/code-of-conduct.html).
 
-<h3>Timetable (all times are in GMT)</h3>
-
 <p><blockquote>This is still a draft course page and the material
 below comes from a previous run of this course. It will be updated for
 this run, but is made available here for reference.</blockquote></p>
+
+<h3>Timetable (all times are in BST, GMT+1)</h3>
 
 <p><blockquote>Unless otherwise indicated all material is Copyright
 &copy; EPCC, The University of Edinburgh, and is only made available
