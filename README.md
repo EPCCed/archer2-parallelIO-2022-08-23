@@ -51,6 +51,10 @@ They are also required to abide by the [ARCHER2 Code of Conduct](https://www.arc
 
 <h3>Timetable (all times are in GMT)</h3>
 
+<p><blockquote>This is still a draft course page and the material
+below comes from a previous run of this course. It will be updated for
+this run, but is made available here for reference.</blockquote></p>
+
 <p><blockquote>Unless otherwise indicated all material is Copyright
 &copy; EPCC, The University of Edinburgh, and is only made available
 for private study. </blockquote></p>
@@ -77,10 +81,6 @@ for private study. </blockquote></p>
 <p><blockquote>Unless otherwise indicated all material is Copyright
 &copy; EPCC, The University of Edinburgh, and is only made available
 for private study. </blockquote></p>
-
-<p><blockquote>This is still a draft course page and the material
-below comes from a previous run of this course. It will be updated for
-this run, but is made available here for reference.</blockquote></p>
 
 Here is the <a href="https://github.com/EPCCed/archer2-parallelIO-2022-01-11/raw/main/exercises/benchio-archer2.pdf">parallel IO exercise sheet.</a>. As explained in the sheet, source code and instructions for the IO benchmark can be found at <a href="https://github.com/davidhenty/benchio">https://github.com/davidhenty/benchio/.</a>
 
