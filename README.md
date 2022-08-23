@@ -59,7 +59,7 @@ this run, but is made available here for reference.</blockquote></p>
 &copy; EPCC, The University of Edinburgh, and is only made available
 for private study. </blockquote></p>
 
-<h4>Tuesday 11th January</h4>
+<h4>Tuesday 23rd August 2022</h4>
 
  * 09:30 - 10:15 : <a href="https://github.com/EPCCed/archer2-parallelIO-2022-08-23/raw/main/slides/Parallel-IO-1.pdf">Challenges of Parallel IO</a>
  * 10:15 - 10:45 : <a href="https://github.com/EPCCed/archer2-parallelIO-2022-08-23/raw/main/slides/Parallel-IO-2.pdf">Lustre file system on ARCHER2</a>
