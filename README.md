@@ -76,6 +76,11 @@ for private study. </blockquote></p>
  * 16:00 - 16:30 : Q&A / Finish exercises
  * 16:30         : CLOSE
 
+Slides and a video recording of the virtual tutorial containing
+detailed results of running benchio on ARCHER2 are available from the
+[ARCHER2 course
+repository](https://www.archer2.ac.uk/training/courses/220713-parallel-io-vt/).
+
 <h3>Exercise Material</h3>
 
 <p><blockquote>Unless otherwise indicated all material is Copyright
